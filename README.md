@@ -1,6 +1,8 @@
 # Fraudulent-job-posts
 Spotting Fake Job Posts
-Introduction
+
+# Introduction
+
 Although the online job market is filled with opportunities, not all listed jobs are legitimate. As is often the case, job postings are sometimes created to scam job seekers. The scammers trick them into revealing their sensitive personal information, which can include their address, social security number, or credit card details. Other malicious intent also includes attracting job seekers with a lucrative job opportunity but then asking for payment or processing fees in return.  Linkedin has become a profitable hub for online job scammers. 
 
 Our project aims to identify fake job posts on the internet using machine learning models. We used a labelled job postings dataset from Kaggle that contains 18000 job listings, and used it to train our models. The models used were Stochastic Gradient Descent and Random Forest Classifier. The
