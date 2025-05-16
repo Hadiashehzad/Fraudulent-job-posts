@@ -15,7 +15,8 @@ Our project follows the standard data science lifecycle, which is as follows:
 5.	Evaluate the model and draw conclusions
 
 
-Methodology
+# Methodology
+
 The training dataset we used for the job listings is from Kaggle, and can be found here. It contains several text and numerical features of a job posting, like title, description, location, and salary range, and the target variable on whether the job is fraudulent or not. The total number of jobs are 18000, out of which around 800 are fraudulent. This amounts to only 4.44% of jobs being fraudulent, which is not surprising, as the number of fake jobs as compared to real jobs on the internet are a few.
 
 We combined the text features into a single string of text to allow for easy modeling. For numeric features, we retained three important features out of all that were provided. We ran the following models on the dataset:
