@@ -7,7 +7,7 @@ Although the online job market is filled with opportunities, not all listed jobs
 
 Our project aims to identify fake job posts on the internet using machine learning models. We used a labelled job postings dataset from Kaggle that contains 18000 job listings, and used it to train our models. The models used were Stochastic Gradient Descent and Long Short Term Memory (LSTM) Sequential Model. 
 
-Our project the standard data science lifecycle, which is as follows:
+Our project follows the standard data science lifecycle, which is as follows:
 1.	Problem Formulation
 2.	Acquire and Clean the Data
 3.	Exploratory Data Analysis
